@@ -13,7 +13,7 @@
 ### <a name="1">About The Project</a>
 
 <br/>
-<img src="img\Orizon_db.screenshot.png width="30%">
+<img src="./img/Orizon_db.screenshot.png width="30%">
 
 <p align=right><a href="#0">back to top</a></p>
 
@@ -219,7 +219,7 @@
   }
   ```
 
-- **Create user**:
+- **Create order**:
   <br/>
 
 1. Send an HTTP `PUT` request to the URL:
@@ -239,7 +239,7 @@
   }
   ```
 
-- **Delete user**:
+- **Delete order**:
     <br/>
 
 1. Send an HTTP `DELETE` request to the URL:
@@ -281,7 +281,7 @@
 ##### <h4 align=center>Run Test</h4>
 ***
   <br/>
-  Run: `npm test`
+  Run `npm test`
 
 <br/>
 <br/>
