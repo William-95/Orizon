@@ -13,7 +13,7 @@
 ### <a name="1">About The Project</a>
 
 <br/>
-<img src="img/img01.png width="30%">
+<img src="img/img01.png" width="30%">
 
 <p align=right><a href="#0">back to top</a></p>
 
