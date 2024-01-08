@@ -280,8 +280,7 @@
 
 ##### <h4 align=center>Run Test</h4>
 ***
-  <br/>
-  Run ` npm test `
+ Run `npm test`
 
 <br/>
 <br/>
