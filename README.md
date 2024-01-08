@@ -13,7 +13,7 @@
 ### <a name="1">About The Project</a>
 
 <br/>
-<img src=".\img\img_json.jpg" width="30%">
+<img src="img\Orizon_db.screenshot.png width="30%">
 
 <p align=right><a href="#0">back to top</a></p>
 
@@ -278,6 +278,13 @@
 <br/>
 <br/>
 
+##### <h4 align=center>Run Test</h4>
+***
+  <br/>
+  Run: `npm test`
+
+<br/>
+<br/>
 <p align=right><a href="#0">back to top</a></p>
 
 ---
